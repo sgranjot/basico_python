@@ -24,3 +24,7 @@ print(type(y), y)
 print(type(Calculator))
 
 print(type(calc))
+
+print(type(Calculator.sum))
+
+print(__name__)
